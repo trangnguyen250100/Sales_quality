@@ -1,3 +1,5 @@
+Link dashboard: https://bom.so/NpuQxB
+
 The sales dashboard is designed with Power BI, showing the sales situation of a company in a month. 5-page dashboard with revenue data, and sales quality from overview to details. 
 
  Usage: The dashboard can help you control and analyze your business situation: 
